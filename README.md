@@ -1,6 +1,6 @@
 1 - Introduction
 
-    This project is an exercise proposed in the Fullstack PHP module, where the teacher asked us to implement a web app with some functionalities focused on managing a library. The original excercise text is the following:
+This project is an exercise proposed in the Fullstack PHP module, where the teacher asked us to implement a web app with some functionalities focused on managing a library. The original excercise text is the following:
 
     ###
     Write a program that allow to manage a little library. For each book, save:
@@ -28,7 +28,7 @@
 
 2 - Stack description
 
-    The project use this stack libraries/frameworks/technologies:
+The project use this stack libraries/frameworks/technologies:
         - database: mysql
         - backend: laravel
         - frontend: SSR with Blade templates + Javascript functions
